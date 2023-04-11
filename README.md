@@ -1,5 +1,7 @@
 ### Links:
 [![telegram](https://user-images.githubusercontent.com/81328388/231239269-15972823-1434-4154-bed4-bc9ec08bab12.png)](https://t.me/f1xc0d3)
+[![discord](https://user-images.githubusercontent.com/81328388/231240302-6ae37068-3825-499f-bb20-bc3dd856af8c.png)](https://discordapp.com/users/990307723579097140)
+
 [![Tinkoff](https://user-images.githubusercontent.com/81328388/231222824-4b59900f-bcc5-4cbc-8c31-cf9d19f3a81d.svg)](https://www.tinkoff.ru/rm/goncharov.oleg82/kDMuQ42443)
 [![Qiwi](https://user-images.githubusercontent.com/81328388/231226394-4f6df80f-0104-4561-bcfc-fd477b362775.svg)](https://qiwi.com/n/F1XC0D3)
 
